@@ -1,0 +1,10 @@
+{
+  "id": "auto-toggle-mode",
+  "name": "Auto Toggle Mode",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Kay Fang",
+  "description": "Automatically toggle between reading and editing mode",
+  "authorUrl": "https://github.com/wenkay",
+  "isDesktopOnly": false
+}
