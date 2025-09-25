@@ -1,6 +1,7 @@
 # Auto Toggle Mode Plugin for Obsidian
-
 This plugin provides intelligent mode switching functionality:
+
+![auto-editing-mode](auto-editing-mode.gif)
 
 ## Features
 
